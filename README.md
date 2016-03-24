@@ -1,2 +1,3 @@
-# contact-form-7-civi
-Wordpress plugin for integration between Contact Form 7 and CiviCRM.
+# REPOSITORY MOVED
+
+Repository moved to Wordpress SVN: https://wordpress.org/plugins/contact-form-7-civicrm-integration/installation/
